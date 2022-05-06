@@ -1,1 +1,1 @@
-# odin-recipes
+The odin-recipes project is a recipes page that shows the html skills developed from The Odin Project (TOP) fundamentals course. 
